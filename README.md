@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey I'm Alexander!
 
 <!--
 **Alexsandwich/Alexsandwich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
 
 <p align="center">
 <a href="https://github.com/AVS1508">
