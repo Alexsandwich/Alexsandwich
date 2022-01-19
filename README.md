@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-<p align="center">
-<a href="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexsandwich&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
-</a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandwich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
