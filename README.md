@@ -21,6 +21,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alexsandwich&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 </p>
