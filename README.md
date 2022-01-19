@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandwich&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexsandwich&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandwich&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandwich&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
