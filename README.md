@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<p>I am a student developer who was studying at the University of Tennessee. I'm incredibly interesting in programming game plugins, specifically minecraft. I'm working on expanding my portfolio with other languages such as C and Javascript</p>
+<p>I am a student developer who was studying at the University of Tennessee. I'm incredibly interested in programming game plugins, specifically minecraft. I'm working on expanding my portfolio with other languages such as C and Javascript</p>
 
 ---
 
